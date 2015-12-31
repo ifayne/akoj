@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+//WA
+public class P1115 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner cin = new Scanner(System.in);
+		while (cin.hasNext()) {
+			int a = cin.nextInt();
+			int b = cin.nextInt();
+			int c = cin.nextInt();
+			int result = (a * 70 + b * 21 + c * 15) % 105;
+			if (result < 10 || result > 100) {
+				System.out.println("No answer");
+
+			} else
+				System.out.println(result);
+		}
+		cin.close();
+	}
+
+}
