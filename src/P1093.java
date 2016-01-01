@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
-
+//这段代码并没有什么用，只是在学习Java的排序是的遗留
 public class P1093 {
 	public static void main(String[] args) {
 		List<rectangle> list = new LinkedList<rectangle>();
