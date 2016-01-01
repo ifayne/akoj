@@ -4,4 +4,4 @@
 
 *The Online Judge of ahstu: [AOJ](http://183.167.205.82:8081/JudgeOnline/)*
 
-*<a href="mailto:ifayne@163.com">Contact Me</a>*
+*有任何问题请联系<a href="mailto:ifayne@163.com">Fayne</a>*
