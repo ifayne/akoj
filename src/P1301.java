@@ -5,7 +5,7 @@ public class P1301 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner cin = new Scanner(System.in);
-		while ( cin.hasNext() && cin.hasNext() ){
+		while (cin.hasNext()){
 			int a = cin.nextInt();
 			String b = cin.next();
 			int sum = a + convert(b);
