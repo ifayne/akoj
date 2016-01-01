@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//WA
+//WA 这个在南阳上是没有问题的，不知道为什么在我们OJ上不行
 public class P1115 {
 
 	public static void main(String[] args) {
