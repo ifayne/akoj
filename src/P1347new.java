@@ -19,4 +19,4 @@ public class P1347new {
 		}
 		cin.close();
 	}
-	}
+}
